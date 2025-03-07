@@ -1,4 +1,4 @@
-# Project1
+# AddressBook, a Java application to maintain addresses.
 
 This is to demonstrate composition instead of ingeritance in Java.
 
